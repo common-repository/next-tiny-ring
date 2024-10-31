@@ -1,0 +1,1474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Tiny Ring\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-21 13:06+0200\n"
+"PO-Revision-Date: 2023-09-21 13:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: trans_next_watermark\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: ntrng-acp-page.php\n"
+"X-Poedit-SearchPath-1: ntrng-functions.php\n"
+
+#: ntrng-acp-page.php:167 ntrng-acp-page.php:618
+msgid "Export"
+msgstr "Export"
+
+#: ntrng-acp-page.php:178
+msgid "Banner ads exported"
+msgstr "Bannières exportées"
+
+#: ntrng-acp-page.php:247
+msgid "Error creating table Ring Web"
+msgstr "Erreur de création de la table"
+
+#: ntrng-acp-page.php:260
+msgid "Error creating table Ring Information"
+msgstr "Erreur de création des informations"
+
+#: ntrng-acp-page.php:264
+msgid ""
+"Enter the information of the empty database (with no table) you have created first somewhere on your server to share the future information for the "
+"ring"
+msgstr ""
+"Entrer l'information de la base de données vide (sans aucune table) que vous aurez créé quelque part sur votre serveur pour partager l'information "
+"future des bannières de publicité"
+
+#: ntrng-acp-page.php:275 ntrng-functions.php:83
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: ntrng-acp-page.php:276 ntrng-acp-page.php:314 ntrng-functions.php:84
+msgid "Banner Ads"
+msgstr "Bannières de pub"
+
+#: ntrng-acp-page.php:277 ntrng-functions.php:85
+msgid "Help"
+msgstr "Aide"
+
+#: ntrng-acp-page.php:288
+msgid "Database"
+msgstr "Base de données"
+
+#: ntrng-acp-page.php:291
+msgid "Name"
+msgstr "Nom"
+
+#: ntrng-acp-page.php:292
+msgid "Name of your shared ring database"
+msgstr "Nom de votre base de données partagée"
+
+#: ntrng-acp-page.php:293
+msgid "Enter the name of your shared ring database"
+msgstr "Entrer le nom de la base de données partagée"
+
+#: ntrng-acp-page.php:296
+msgid "You must have created before a database to share the information for the ring"
+msgstr "Vous devez d'abord créer une base de données vide pour partager l'information de l'anneau"
+
+#: ntrng-acp-page.php:302
+msgid "User"
+msgstr "Utilisateur"
+
+#: ntrng-acp-page.php:303
+msgid "User of your shared ring database"
+msgstr "Utilisateur de votre base de données partagée"
+
+#: ntrng-acp-page.php:304
+msgid "Enter the user of your shared ring database"
+msgstr "Entrer l'utilisateur de la base de données partagée"
+
+#: ntrng-acp-page.php:308
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ntrng-acp-page.php:309
+msgid "Password of your shared ring database"
+msgstr "Mot de passe de votre base de données partagée"
+
+#: ntrng-acp-page.php:310
+msgid "Enter the password of your shared ring database"
+msgstr "Entrer le mot de passe de la base de données partagée"
+
+#: ntrng-acp-page.php:317
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ntrng-acp-page.php:323
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: ntrng-acp-page.php:329
+msgid "Border style"
+msgstr "Style de bordure"
+
+#: ntrng-acp-page.php:330
+msgid "Hidden"
+msgstr "Aucun"
+
+#: ntrng-acp-page.php:331
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: ntrng-acp-page.php:332
+msgid "Dashed"
+msgstr "Tirets"
+
+#: ntrng-acp-page.php:333
+msgid "Solid"
+msgstr "Plein"
+
+#: ntrng-acp-page.php:337
+msgid "Border size"
+msgstr "Taille de bordure"
+
+#: ntrng-acp-page.php:344
+msgid "Title color"
+msgstr "Couleur du titre"
+
+#: ntrng-acp-page.php:350
+msgid "Description color"
+msgstr "Couleur de la description"
+
+#: ntrng-acp-page.php:356
+msgid "Link color"
+msgstr "Couleur du lien"
+
+#: ntrng-acp-page.php:362
+msgid "Show link"
+msgstr "Montrer le lien"
+
+#: ntrng-acp-page.php:363
+msgid "Display the link in banner ad"
+msgstr "Afficher le lien dans la bannière"
+
+#: ntrng-acp-page.php:367
+msgid "Shape style"
+msgstr "Style de forme"
+
+#: ntrng-acp-page.php:369
+msgid "None"
+msgstr "Aucun"
+
+#: ntrng-acp-page.php:370
+msgid "4 rounded corners"
+msgstr "4 coins arrondis"
+
+#: ntrng-acp-page.php:371
+msgid "4 more rounded corners"
+msgstr "4 coins plus arrondis"
+
+#: ntrng-acp-page.php:372
+msgid "2 opposite rounded corners"
+msgstr "2 coins arrondis opposés"
+
+#: ntrng-acp-page.php:373
+msgid "Eliptical"
+msgstr "Eliptique"
+
+#: ntrng-acp-page.php:374
+msgid "Bounced vertical edge"
+msgstr "Bords verticaux rebondis"
+
+#: ntrng-acp-page.php:375
+msgid "Asymmetrical"
+msgstr "Assymétrique"
+
+#: ntrng-acp-page.php:376
+msgid "Flag"
+msgstr "Drapeau"
+
+#: ntrng-acp-page.php:381 ntrng-functions.php:342
+msgid "Test"
+msgstr "Texte du titre"
+
+#: ntrng-acp-page.php:381 ntrng-functions.php:343
+msgid "This is a description test"
+msgstr "Texte de la description"
+
+#: ntrng-acp-page.php:386
+msgid "Website background colors"
+msgstr "Couleurs de fond du site web"
+
+#: ntrng-acp-page.php:388
+msgid "Use Website background color of header"
+msgstr "Couleur de fond du haut de page"
+
+#: ntrng-acp-page.php:389
+msgid "Use Website background color of body"
+msgstr "Couleur de fond du corps du site"
+
+#: ntrng-acp-page.php:390
+msgid "Use Website background color of footer"
+msgstr "Couleur de fond du bas de page"
+
+#: ntrng-acp-page.php:391
+msgid "Enter the website background color of each area"
+msgstr "Entrer la couleur de fond de chacune des zones du site web"
+
+#: ntrng-acp-page.php:392
+msgid "If using a banner with a shape style only"
+msgstr "Seulement si une bannière avec une forme est utilisée"
+
+#: ntrng-acp-page.php:396
+msgid "Display"
+msgstr "Affichage"
+
+#: ntrng-acp-page.php:399
+msgid "Display location"
+msgstr "Emplacement"
+
+#: ntrng-acp-page.php:400
+msgid "Top of page"
+msgstr "Entête de page"
+
+#: ntrng-acp-page.php:403
+msgid "Check to display a banner on your page headers"
+msgstr "Cocher pour afficher une bannière en haut de page"
+
+#: ntrng-acp-page.php:407
+msgid "Bottom of page"
+msgstr "Pied de page"
+
+#: ntrng-acp-page.php:410
+msgid "Check to display a banner on your page footers"
+msgstr "Cocher pour afficher une bannière en bas de page"
+
+#: ntrng-acp-page.php:414
+msgid "Insert the shortcode [next_tiny_ring] into a widget or a page to display a banner anywhere in your page"
+msgstr "Insérer le shortcode [next_tiny_ring] dans un widget ou une page pour afficher une bannière ailleurs sur votre page"
+
+#: ntrng-acp-page.php:418
+msgid "Display pages"
+msgstr "Affichage des pages"
+
+#: ntrng-acp-page.php:419
+msgid "Check to display a banner on your front page"
+msgstr "Cocher pour afficher une bannière sur la page d'accueil"
+
+#: ntrng-acp-page.php:421
+msgid "Check to display a banner on all pages except the following"
+msgstr "Cocher pour afficher une bannière sur toutes les pages sauf les suivantes"
+
+#: ntrng-acp-page.php:425 ntrng-acp-page.php:434
+msgid "Page Ids"
+msgstr "Ids de page"
+
+#: ntrng-acp-page.php:427 ntrng-acp-page.php:436
+msgid "Insert page Ids separated by a colon."
+msgstr "Saisir des Ids de page séparés par une virgule."
+
+#: ntrng-acp-page.php:430
+msgid "Check to display a banner only on the following pages"
+msgstr "Cocher pour afficher une bannière seulement sur les pages suivantes"
+
+#: ntrng-acp-page.php:442
+msgid "Display websites"
+msgstr "Affichage des sites web"
+
+#: ntrng-acp-page.php:447 ntrng-functions.php:200 ntrng-functions.php:526
+msgid "Unable to open the database table containing the information for the ring"
+msgstr "Imposible d'ouvrir la base de données partagées contenant l'information de l'anneau"
+
+#: ntrng-acp-page.php:464
+msgid "Uncheck to disable the display of some websites"
+msgstr "Décocher pour désactiver l'affichage de certains site web"
+
+#: ntrng-acp-page.php:466
+msgid "Excluding"
+msgstr "Excluant"
+
+#: ntrng-acp-page.php:472
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ntrng-acp-page.php:482 ntrng-acp-page.php:568
+msgid "My banner ads"
+msgstr "Mes bannières de pub"
+
+#: ntrng-acp-page.php:483 ntrng-acp-page.php:569
+msgid "Other banner ads"
+msgstr "Autres bannières de pub"
+
+#: ntrng-acp-page.php:486 ntrng-acp-page.php:576
+msgid "View"
+msgstr "Voir"
+
+#: ntrng-acp-page.php:508
+msgid "Modify this banner ad"
+msgstr "Modifier cette bannière de pub"
+
+#: ntrng-acp-page.php:509
+msgid "Delete this banner ad"
+msgstr "Effacer cette bannière de pub"
+
+#: ntrng-acp-page.php:509
+msgid "Delete banner"
+msgstr "Effacer une bannière"
+
+#: ntrng-acp-page.php:516 ntrng-acp-page.php:527 ntrng-acp-page.php:543 ntrng-acp-page.php:551
+msgid "Title"
+msgstr "Titre"
+
+#: ntrng-acp-page.php:518 ntrng-acp-page.php:522 ntrng-acp-page.php:526 ntrng-acp-page.php:544 ntrng-acp-page.php:547 ntrng-acp-page.php:550
+msgid "characters max."
+msgstr "caractères max."
+
+#: ntrng-acp-page.php:520 ntrng-acp-page.php:527 ntrng-acp-page.php:546 ntrng-acp-page.php:551
+msgid "Description"
+msgstr "Description"
+
+#: ntrng-acp-page.php:524 ntrng-acp-page.php:527 ntrng-acp-page.php:549 ntrng-acp-page.php:551
+msgid "Link"
+msgstr "Lien"
+
+#: ntrng-acp-page.php:527
+msgid "Modify banner ad"
+msgstr "Modifier une bannière"
+
+#: ntrng-acp-page.php:527 ntrng-acp-page.php:551
+msgid "Empty field"
+msgstr "Champ vide"
+
+#: ntrng-acp-page.php:527
+msgid "Modify"
+msgstr "Modifier"
+
+#: ntrng-acp-page.php:536 ntrng-acp-page.php:551
+msgid "Add a new banner ad"
+msgstr "Ajouter une nouvelle bannière de pub"
+
+#: ntrng-acp-page.php:551
+msgid "Add"
+msgstr "Ajouter"
+
+#: ntrng-acp-page.php:618
+msgid "Export all banner ads in a .CSV file"
+msgstr "Exporter toutes les bannières dans un fichier .CSV"
+
+#: ntrng-acp-page.php:626
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ntrng-acp-page.php:630
+msgid "Example"
+msgstr "Exemple"
+
+#: ntrng-acp-page.php:632
+msgid "Insert the shortcode into a widget or a page to display an advertising banner"
+msgstr "Insérer le shortcode dans un widget ou une page pour afficher une bannière de publicité"
+
+#: ntrng-functions.php:155
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas la permission suffisante pour accéder à cette page."
+
+#: ntrng-functions.php:165
+msgid "Add for free nice other"
+msgstr "Obtenir gratuitement"
+
+#: ntrng-functions.php:165
+msgid "Plugins for Wordpress"
+msgstr "Plugins pour Wordpress"
+
+#: ntrng-functions.php:166
+msgid "You like this plugin?"
+msgstr "Vous aimez ce plugin?"
+
+#: ntrng-functions.php:166
+msgid "Offer me a coffee!"
+msgstr "Offrez-moi un café!"
+
+#: ntrng-functions.php:449
+msgid "The link must start with"
+msgstr "Le lien doit commencer par"
+
+#: ntrng-functions.php:460
+msgid "Cannot add website"
+msgstr "Impossible d'ajouter un site web"
+
+#: ntrng-functions.php:470
+msgid "Cannot add banner"
+msgstr "Impossible d'ajouter une bannière"
+
+#: ntrng-functions.php:473
+msgid "New banner added"
+msgstr "Mes bannières de pub"
+
+#: ntrng-functions.php:474
+msgid "Please refreh the page"
+msgstr "Merci de rafraîchir la page"
+
+#: ntrng-functions.php:493
+msgid "Cannot modify banner"
+msgstr "Impossible de modifer une bannière"
+
+#: ntrng-functions.php:496
+msgid "Banner modified"
+msgstr "Bannière modifiée"
+
+#: ntrng-functions.php:509
+msgid "Cannot delete banner"
+msgstr "Impossible d'effacer une bannière"
+
+#~ msgid "Database not found!"
+#~ msgstr "Base de données absente!"
+
+#~ msgid "Display style"
+#~ msgstr "Style d'affichage"
+
+#~ msgid "Only 2 rounded corners"
+#~ msgstr "Seulement 2 coins arrondis"
+
+#~ msgid "Other websites"
+#~ msgstr "Autres sites web"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "Please enter your reason"
+#~ msgstr "Merci de saisir votre motif"
+
+#~ msgid "Perso"
+#~ msgstr "Perso"
+
+#~ msgid "Lock"
+#~ msgstr "Bloquer"
+
+#~ msgid "Unlock"
+#~ msgstr "Débloquer"
+
+#~ msgid "Clean DB"
+#~ msgstr "Nettoyer la BD"
+
+#~ msgid "Planning"
+#~ msgstr "Agenda"
+
+#~ msgid "Stats"
+#~ msgstr "Statistiques"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "Opening hours"
+#~ msgstr "Heures d'ouverture"
+
+#~ msgid "Appointments"
+#~ msgstr "Rendez-vous"
+
+#~ msgid "15 min"
+#~ msgstr "15 min"
+
+#~ msgid "20 min"
+#~ msgstr "20 min"
+
+#~ msgid "30 min"
+#~ msgstr "30 min"
+
+#~ msgid "45 min"
+#~ msgstr "45 min"
+
+#~ msgid "60 min"
+#~ msgstr "60 min"
+
+#~ msgid "90 min"
+#~ msgstr "90 min"
+
+#~ msgid "120 min (2 hours)"
+#~ msgstr "120 min (2 heures)"
+
+#~ msgid "180 min (3 hours)"
+#~ msgstr "180 min (3 heures)"
+
+#~ msgid "240 min (4 hours)"
+#~ msgstr "240 min (4 heures)"
+
+#~ msgid "Select the duration of appointments."
+#~ msgstr "Choisir la durée des rendez-vous."
+
+#~ msgid "Colors"
+#~ msgstr "Couleurs"
+
+#~ msgid "Available"
+#~ msgstr "Disponible"
+
+#~ msgid "Booked"
+#~ msgstr "Réservé"
+
+#~ msgid "Not available"
+#~ msgstr "Non disponible"
+
+#~ msgid "Till date"
+#~ msgstr "Jusqu'à"
+
+#~ msgid "2 weeks"
+#~ msgstr "2 semaines"
+
+#~ msgid "1 month"
+#~ msgstr "1 mois"
+
+#~ msgid "2 months"
+#~ msgstr "2 mois"
+
+#~ msgid "3 months"
+#~ msgstr "3 mois"
+
+#~ msgid "6 months"
+#~ msgstr "6 mois"
+
+#~ msgid "9 months"
+#~ msgstr "9 mois"
+
+#~ msgid "1 year"
+#~ msgstr "1 an"
+
+#~ msgid "Select the length period to book appointments."
+#~ msgstr "Choisir la plage de temps pour réserver un rendez-vous."
+
+#~ msgid "Reasons"
+#~ msgstr "Motifs"
+
+#~ msgid "Enter each reason on a separate line."
+#~ msgstr "Entrer chaque motif de réservation sur une ligne séparée."
+
+#~ msgid "Start with a star to set a title in the scrolling list."
+#~ msgstr "Commencer avec une étoile pour que ce soit un titre dans la liste déroulante."
+
+#~ msgid "Date format"
+#~ msgstr "Format de la date"
+
+#~ msgid "Day/Month/Year"
+#~ msgstr "Jour/Mois/An"
+
+#~ msgid "Month/Day/Year"
+#~ msgstr "Mois/Jour/An"
+
+#~ msgid "Booking"
+#~ msgstr "Réserver"
+
+#~ msgid "Booking button"
+#~ msgstr "Bouton d'horaire de réservation"
+
+#~ msgid "Background color on mouse over"
+#~ msgstr "Couleur de fond au survol de la souris"
+
+#~ msgid "Font color on mouse over"
+#~ msgstr "Couleur de la police au survol de la souris"
+
+#~ msgid "Maximum of booking buttons"
+#~ msgstr "Maximum de bouton d'horaire"
+
+#~ msgid "Maximum number of booking buttons in a column"
+#~ msgstr "Nombre maximum de bouton d'horaire dans une colonne"
+
+#~ msgid "e.g. for summer: 07/01/23-07/15/23, 08/31/23 or 01/07/23-15/07/23, 31/08/23"
+#~ msgstr "Par exemple pour l'été:  01/07/23-15/07/23, 31/08/23"
+
+#~ msgid "Enter your holiday dates in your prefered format (mm/dd/yy or dd/mm/yy)."
+#~ msgstr "Saisir vos dates de vacances dans votre format préféré (jj/mm/aa or mm/jj/aa)."
+
+#~ msgid "Public Holidays"
+#~ msgstr "Jours fériés"
+
+#~ msgid "e.g. for Christmas: 12/25/23 or 25/12/23"
+#~ msgstr "Par exemple pour Noël: 25/12/23"
+
+#~ msgid "Enter each public holiday date in your prefered format (mm/dd/yy or dd/mm/yy) separated by a coma."
+#~ msgstr "Saisir chaque date de jour férié dans votre format préféré (jj/mm/aa or mm/jj/aa) séparée par une virgule."
+
+#~ msgid "Comments on booking dates"
+#~ msgstr "Commentaires sur les dates de réservation"
+
+#~ msgid "Check to set information or warning messages on bookings between two dates"
+#~ msgstr "Cocher pour définir des messages d'information sur les boutons de réservation entre deux dates"
+
+#~ msgid "Icon"
+#~ msgstr "Icône"
+
+#~ msgid "Between"
+#~ msgstr "Entre"
+
+#~ msgid "and"
+#~ msgstr "et"
+
+#~ msgid "Left empty if not used."
+#~ msgstr "Laisser vide si non utilisé."
+
+#~ msgid "Send e-mail"
+#~ msgstr "Envoi d'e-mail"
+
+#~ msgid "Check to send an automatic e-mail to the client after booking"
+#~ msgstr "Envoi d'un mail automatique au client aprés réservation"
+
+#~ msgid "Redirect"
+#~ msgstr "Redirection"
+
+#~ msgid "Redirect link to the paiement page after booking"
+#~ msgstr "Redirection vers la page de paiement aprés réservation"
+
+#~ msgid "e-mail"
+#~ msgstr "e-mail"
+
+#~ msgid "Sender e-mail"
+#~ msgstr "E-mail de l'expéditeur"
+
+#~ msgid "Enter the sender email. (If empty,"
+#~ msgstr "Entrer l'e-mail de l'expéditeur. (Si vide,"
+
+#~ msgid "will be used.)"
+#~ msgstr "sera utilisé.)"
+
+#~ msgid "Sender signature"
+#~ msgstr "Signature de l'expéditeur"
+
+#~ msgid "Enter the sender signature. (If empty,"
+#~ msgstr "Entrer la signature de l'expéditeur. (Si vide,"
+
+#~ msgid "Appointments only"
+#~ msgstr "Rendez-vous uniquement"
+
+#~ msgid "Check to export only booked appointments"
+#~ msgstr "Cocher pour exporter uniquement les rendez-vous"
+
+#~ msgid "Enable to export only booked appointments instead of full daily planning."
+#~ msgstr "Cocher pour exporter uniquement les rendez-vous au lieu de l'horaire complet de la journée."
+
+#~ msgid "is before"
+#~ msgstr "est avant"
+
+#~ msgid "Closed"
+#~ msgstr "Fermé"
+
+#~ msgid "Open morning"
+#~ msgstr "Ouvert le matin"
+
+#~ msgid "Open afternoon"
+#~ msgstr "Ouvert l'après-midi"
+
+#~ msgid "View appointments"
+#~ msgstr "Voir les rendez-vous"
+
+#~ msgid "Pick a date"
+#~ msgstr "Choisir une date"
+
+#~ msgid "Remove old appointments before today"
+#~ msgstr "Effacer les vieux rendez-vous d'avant aujourd'hui"
+
+#~ msgid "Appointments per day"
+#~ msgstr "Rendez-vous par jour"
+
+#~ msgid "Appointments per reason"
+#~ msgstr "Rendez-vous par motif"
+
+#~ msgid "Need more?"
+#~ msgstr "Besoin de plus?"
+
+#~ msgid "Go Pro!"
+#~ msgstr "Passez Pro!"
+
+#~ msgid ""
+#~ "Next Tiny Date PRO allows you to manage several people (employees, ..) in several places, so each one can have personal settings for a custom "
+#~ "schedule."
+#~ msgstr ""
+#~ "Next Tiny Date PRO permet de gérer plusieurs personnes (employés, …) en plusieurs endroits, tel que chacun dispose de ses propres réglages pour "
+#~ "un emploi du temps personnalisé."
+
+#~ msgid "Time"
+#~ msgstr "Heure"
+
+#~ msgid "Reason"
+#~ msgstr "Motif"
+
+#~ msgid "Phone number"
+#~ msgstr "N° de téléphone"
+
+#~ msgid "Day break"
+#~ msgstr "Pause"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Me!"
+#~ msgstr "Moi!"
+
+#~ msgid "Public holiday"
+#~ msgstr "Jour férié"
+
+#~ msgid "Not bookable yet"
+#~ msgstr "Non encore réservable"
+
+#~ msgid "Previous week"
+#~ msgstr "Semaine précédente"
+
+#~ msgid "Next week"
+#~ msgstr "Semaine prochaine"
+
+#~ msgid "See more appointments"
+#~ msgstr "Voir moins de rendez-vous"
+
+#~ msgid "See less appointments"
+#~ msgstr "Voir plus de rendez-vous"
+
+#~ msgid "Show more appointments"
+#~ msgstr "Montrer plus de rendez-vous"
+
+#~ msgid "Book an appointment"
+#~ msgstr "Réserver un rendez-vous"
+
+#~ msgid "Reason for the appointment"
+#~ msgstr "Motif de rendez-vous"
+
+#~ msgid "Appointment"
+#~ msgstr "Rendez-vous"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Hour"
+#~ msgstr "Heure"
+
+#~ msgid "Locked..."
+#~ msgstr "Réservé..."
+
+#~ msgid "Sunday"
+#~ msgstr "Dimanche"
+
+#~ msgid "Monday"
+#~ msgstr "Lundi"
+
+#~ msgid "Tuesday"
+#~ msgstr "Mardi"
+
+#~ msgid "Wednesday"
+#~ msgstr "Mercredi"
+
+#~ msgid "Thursday"
+#~ msgstr "Jeudi"
+
+#~ msgid "Friday"
+#~ msgstr "Vendredi"
+
+#~ msgid "Saturday"
+#~ msgstr "Samedi"
+
+#~ msgid "Dear"
+#~ msgstr "Cher"
+
+#~ msgid "Your appointement of"
+#~ msgstr "Votre rendez-vous de"
+
+#~ msgid "has been cancelled"
+#~ msgstr "a été annulé"
+
+#~ msgid "Warmest regards"
+#~ msgstr "Cordialement"
+
+#~ msgid "Appointment cancelled"
+#~ msgstr "Rendez-vous annulé"
+
+#~ msgid "Data updated successfully"
+#~ msgstr "Données mises à jour"
+
+#~ msgid "Appointment no longer available"
+#~ msgstr "Ce rendez-vous n'est plus disponible"
+
+#~ msgid "Appointment confirmed for"
+#~ msgstr "Rendez-vous confirmé pour"
+
+#~ msgid "New appointment"
+#~ msgstr "Nouveau rendez-vous"
+
+#~ msgid "is confirmed"
+#~ msgstr "est confirmé"
+
+#~ msgid "Please be sure to check in on"
+#~ msgstr "Merci de valider votre paiement sur"
+
+#~ msgid "Appointment confirmed"
+#~ msgstr "Rendez-vous confirmé"
+
+#~ msgid "No appointment available"
+#~ msgstr "Aucun rendez-vous disponible"
+
+#~ msgid "Number of appointments per reason."
+#~ msgstr "Nombre de rendez-vous par motif."
+
+#~ msgid "Number of appointments per day."
+#~ msgstr "Nombre de rendez-vous par jour."
+
+#~ msgid "Media line shown in gray"
+#~ msgstr "Ligne moyenne affichée en gris"
+
+#~ msgid "Hide"
+#~ msgstr "Cacher"
+
+#, fuzzy
+#~| msgid "Closed"
+#~ msgid "ClosedZ"
+#~ msgstr "Fermé"
+
+#~ msgid "Select time"
+#~ msgstr "Choisir une heure"
+
+#, fuzzy
+#~| msgid "Closed"
+#~ msgid "ClosedX"
+#~ msgstr "Fermé"
+
+#~ msgid "From today"
+#~ msgstr "A partir d'aujourd'hui"
+
+#~ msgid "Check to enable appointments the same day"
+#~ msgstr "Cocher pour autoriser la prise de RV le jour même"
+
+#~ msgid "Enable to book an appointment starting today instead of starting tomorrow."
+#~ msgstr "Autoriser à réserver un RV le jour même au lieu du lendemain."
+
+#~ msgid "Book a date and time"
+#~ msgstr "Réserver une date"
+
+#~ msgid "Save RV"
+#~ msgstr "Enregistrer les rendez-vous"
+
+#~ msgid "Pick a dates"
+#~ msgstr "Choisir une date"
+
+#~ msgid "Databases"
+#~ msgstr "Bases de données"
+
+#~ msgid "Data file"
+#~ msgstr "Fichier de données"
+
+#~ msgid "My data have headers"
+#~ msgstr "Mes données ont des en-têtes"
+
+#~ msgid "Check if first line of your data file is done from the header titles of your columns"
+#~ msgstr "Cocher si la première ligne de votre fichier de données comporte le titre des colonnes"
+
+#~ msgid "Fields separator"
+#~ msgstr "Séparateur de champs"
+
+#~ msgid "Semicolon"
+#~ msgstr "Point virgule"
+
+#~ msgid "Comma"
+#~ msgstr "Virgule"
+
+#~ msgid "Select what is the fields separator used in your data file"
+#~ msgstr "Choisir le séparateur de champs utilisé dans le fichier de données"
+
+#~ msgid "Search"
+#~ msgstr "Rechercher"
+
+#~ msgid "Search field"
+#~ msgstr "Champ de recherche"
+
+#~ msgid "Text box"
+#~ msgstr "Champ texte"
+
+#~ msgid "List box"
+#~ msgstr "Liste déroulante"
+
+#~ msgid "Select how the search value is entered"
+#~ msgstr "Choisir comment la valeur de recherche est entrée"
+
+#~ msgid "Search condition"
+#~ msgstr "Condition de recherche"
+
+#~ msgid "Check if search value could be part of the key, and not only the exact key"
+#~ msgstr "Cocher si le mot à rechercher peut être une partie de la clé, et non exactement la clé"
+
+#~ msgid "First record found will be displayed."
+#~ msgstr "Le premier enregistrement trouvé sera affiché."
+
+#~ msgid "Match case"
+#~ msgstr "Respecter la casse"
+
+#~ msgid "Check if search is case sensitive"
+#~ msgstr "Cocher pour une recherche sensible aux min/MAJ"
+
+#~ msgid "Fields"
+#~ msgstr "Champs"
+
+#~ msgid "Check to show titles of the columns"
+#~ msgstr "Cocher pour afficher les en-têtes des colonnes"
+
+#~ msgid "Line space"
+#~ msgstr "Saut de ligne"
+
+#~ msgid "Check to leave a line space between parts"
+#~ msgstr "Cocher pour laisser une ligne vide entre les parties"
+
+#~ msgid "Bold"
+#~ msgstr "Gras"
+
+#~ msgid "Italic"
+#~ msgstr "Italique"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Image position"
+#~ msgstr "Position de l'image"
+
+#~ msgid "Better for vertical images"
+#~ msgstr "Conseillé pour les images verticales"
+
+#~ msgid "Left"
+#~ msgstr "A gauche"
+
+#~ msgid "Right"
+#~ msgstr "A droite"
+
+#~ msgid "Better for horizontal images"
+#~ msgstr "Conseillé pour les images horizontales"
+
+#~ msgid "Top"
+#~ msgstr "En haut"
+
+#~ msgid "Bottom"
+#~ msgstr "En bas"
+
+#~ msgid "Image width"
+#~ msgstr "Largeur de l'image"
+
+#~ msgid "Select the width of the image beetween 25% to 75% of the page"
+#~ msgstr "Choisir la largeur de l'image entre 25% et 75% de la page"
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "Internal links"
+#~ msgstr "Liens internes"
+
+#~ msgid "linked to page slug"
+#~ msgstr "lié à la page de slug"
+
+#~ msgid "Open in a new page"
+#~ msgstr "Ouvrir dans une nouvelle page"
+
+#~ msgid "Data file URL"
+#~ msgstr "URL du fichier de données"
+
+#~ msgid "Data file path"
+#~ msgstr "Chemin du fichier de données"
+
+#~ msgid "New tiny DB"
+#~ msgstr "Nouvelle base de données"
+
+#~ msgid "Change CSV data file"
+#~ msgstr "Changer le fichier CSV"
+
+#~ msgid "Press Save button to save changes."
+#~ msgstr "Presser le bouton Enregistrer pour garder les changements."
+
+#~ msgid "Upload CSV data file"
+#~ msgstr "Téléverser le fichier de données"
+
+#~ msgid "Parameters"
+#~ msgstr "Paramètres"
+
+#~ msgid "CSV filename (with or without the .csv extension)"
+#~ msgstr "Nom du fichier de données (avec ou sans l'extension .csv)"
+
+#~ msgid "For example: "
+#~ msgstr "Par exemple: "
+
+#~ msgid "Title of database to be displayed on top of the search field on the web page"
+#~ msgstr "Titre de la base de données à afficher au dessus du formulaire de recherche de la page web"
+
+#~ msgid "Header or Number (starting to 1) of the column in which the key will be searched"
+#~ msgstr "En-têtes ou Numéro (Commençant à 1) de la colonne dans laquelle la clé est cherchée"
+
+#~ msgid "to propose a list of colors as the search field"
+#~ msgstr "pour proposer une liste de couleurs comme champ de recherche"
+
+#~ msgid "Set to \"yes\" or \"no\", \"true\" or \"false\", \"1\" or \"0\" to display (defult value) or hide the search form on top of results"
+#~ msgstr ""
+#~ "Mis à \"yes\" ou \"no\", \"true\" ou \"false\", \"1\" ou \"0\" pour afficher (choix par défaut) ou cacher le formulaire de recherche au dessus "
+#~ "des résultats"
+
+#~ msgid "Set to \"yes\" or \"no\", \"true\" or \"false\", \"1\" or \"0\" to display the results in a table or a vertical view"
+#~ msgstr "Mis à \"yes\" ou \"no\", \"true\" ou \"false\", \"1\" ou \"0\" pour afficher les résultats dans un tableau ou une fiche verticale"
+
+#~ msgid "Max number of results displayed on the page (default is 30)"
+#~ msgstr "Nombre maximum de résultats affichés sur la page (30 par défaut)"
+
+#~ msgid "You can have several pages with different shortcodes using the same database for different results according to the searched column."
+#~ msgstr ""
+#~ "Vous pouvez avoir plusieurs pages avec différent shortcodes utilisant la même base de donnés affichant divers résultats selon la colonne "
+#~ "cherchée."
+
+#~ msgid ""
+#~ "For example you may have choose through the plugin to display single result with a primary key (unique identification number of a car) in a view "
+#~ "on a page A."
+#~ msgstr ""
+#~ "Par exemple vous pouvez choisir dans le plugin d'afficher le résultat unique d'une clé primaire (Nº d'immatriculation d'une voiture) dans une "
+#~ "fiche sur la page A."
+
+#~ msgid ""
+#~ "Then on page B you can display several results searching with a secondary key (color of the cars) in a table with the table_results parameter "
+#~ "set to \"Yes\" in the shortcode."
+#~ msgstr ""
+#~ "Puis sur la page B vous pouvez afficher plusieurs résultats issus de la recherche avec une autre clé secondaire (couleur des voitures) dans un "
+#~ "tableau avec le paramètre table_results mis à \"Yes\" dans le shortcode."
+
+#~ msgid "You can also hide the search form with the form_show parameter set to \"No\" in the shortcode, to display your own pre_search links."
+#~ msgstr ""
+#~ "Vous pouvez aussi cacher le formulaire de recherche avec le paramètre form_show mis à \"No\" dans le shortcode, pour afficher vos propres pré-"
+#~ "liens de recherche."
+
+#~ msgid "Next Product Labels & Badges for WooCommerce"
+#~ msgstr "Next Product Labels & Badges for WooCommerce"
+
+#~ msgid "Next Toolbox for WooCommerce"
+#~ msgstr "Next Toolbox for WooCommerce"
+
+#~ msgid "No result found!"
+#~ msgstr "Aucun résultat !"
+
+#~ msgid "result found."
+#~ msgstr "résultat trouvé."
+
+#~ msgid "results found."
+#~ msgstr "résultats trouvés."
+
+#~ msgid "Tiny DB path:"
+#~ msgstr "Chemin de la base de données:"
+
+#~ msgid "Clear filter"
+#~ msgstr "Vider le filtre"
+
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+#~ msgid "Status"
+#~ msgstr "Etat des commandes"
+
+#~ msgid "Total greater than"
+#~ msgstr "Total supérieur à"
+
+#~ msgid "Display only orders which total is greater than this amount"
+#~ msgstr "Filtre les commandes dont le total est supérieur"
+
+#~ msgid "Product name"
+#~ msgstr "Nom du produit"
+
+#~ msgid "Product category"
+#~ msgstr "Catégorie du produit"
+
+#~ msgid "Apply filter"
+#~ msgstr "Appliquer le filtre"
+
+#~ msgid "Export HTML"
+#~ msgstr "Export HTML"
+
+#~ msgid "Category"
+#~ msgstr "Catégorie"
+
+#~ msgid "Orders per year"
+#~ msgstr "Commandes par an"
+
+#~ msgid "Total sales per year"
+#~ msgstr "Total des ventes par an"
+
+#~ msgid "Number of products by category"
+#~ msgstr "Nombre de produits par catégorie"
+
+#~ msgid "Order status"
+#~ msgstr "Etat des commandes"
+
+#~ msgid "Case sensitive"
+#~ msgstr "Sensibilité min/MAJ"
+
+#~ msgid "Orders"
+#~ msgstr "Commandes"
+
+#~ msgid "Detailed products"
+#~ msgstr "Détail des produits"
+
+#~ msgid "Shows detailed products list with quantity and price for each order"
+#~ msgstr "Affiche la liste détaillée des produits avec quantité et prix pour chaque commande"
+
+#~ msgid "Completed"
+#~ msgstr "Terminée"
+
+#~ msgid "On hold"
+#~ msgstr "En attente"
+
+#~ msgid "Processing"
+#~ msgstr "En cours"
+
+#~ msgid "Pending"
+#~ msgstr "Attente paiement"
+
+#~ msgid "Refunded"
+#~ msgstr "Remboursée"
+
+#~ msgid "Failed"
+#~ msgstr "Echouée"
+
+#~ msgid "3D Pie"
+#~ msgstr "Graphique 3D"
+
+#~ msgid "Displays stats pie chart in 3D"
+#~ msgstr "Affiche le graphique des statistiques en 3D"
+
+#~ msgid "Free shipping only"
+#~ msgstr "Envoi gratuit"
+
+#~ msgid "Year"
+#~ msgstr "Année"
+
+#~ msgid "TOTAL"
+#~ msgstr "TOTAL"
+
+#~ msgid "Order Id."
+#~ msgstr "Commande id."
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Product + Shipping"
+#~ msgstr "Produit + Envoi"
+
+#~ msgid "Free"
+#~ msgstr "Gratuit"
+
+#~ msgid "GRAND TOTAL"
+#~ msgstr "GRAND TOTAL"
+
+#~ msgid "Number of orders"
+#~ msgstr "Nombre de commandes"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Average number of orders per year:"
+#~ msgstr "Nombre moyen de commandes par an:"
+
+#~ msgid "Total sales"
+#~ msgstr "Total des ventes"
+
+#~ msgid "Average amount per year:"
+#~ msgstr "Montant moyen par an:"
+
+#~ msgid "Total orders"
+#~ msgstr "Total des commandes"
+
+#~ msgid "Orders per month"
+#~ msgstr "Commandes par mois"
+
+#~ msgid "Feb"
+#~ msgstr "Févr."
+
+#~ msgid "Mar"
+#~ msgstr "Mars"
+
+#~ msgid "Apr"
+#~ msgstr "Avr."
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "Jun"
+#~ msgstr "Juin"
+
+#~ msgid "Jul"
+#~ msgstr "Juil."
+
+#~ msgid "Aug"
+#~ msgstr "Août"
+
+#~ msgid "Sep"
+#~ msgstr "Sept."
+
+#~ msgid "Oct"
+#~ msgstr "Oct."
+
+#~ msgid "Nov"
+#~ msgstr "Nov."
+
+#~ msgid "Dec"
+#~ msgstr "Déc."
+
+#~ msgid "Total sales per month"
+#~ msgstr "Total des ventes par mois"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Sans catégorie"
+
+#~ msgid "Number of products per category with [top-level category]."
+#~ msgstr "Nombre de produits pas catégorie avec [catégorie mère]."
+
+#~ msgid "Products with several categories will be displayed as many times."
+#~ msgstr "Les produits avec plusieurs catégories seront affichés autant de fois."
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "If not, first top-level category found is used..."
+#~ msgstr "Sinon la première catégorie trouvée est utilisée..."
+
+#~ msgid "Years"
+#~ msgstr "Années"
+
+#~ msgid "restored image file(s) to media library"
+#~ msgstr "fichiers image restauré(s) dans la bibliothèque"
+
+#~ msgid "Watermark Text"
+#~ msgstr "Filigrane Texte"
+
+#~ msgid "Watermark Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Backup/Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Watermark text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "E.g.: &copy; Your name"
+#~ msgstr "Ex.: &copy; Votre nom"
+
+#~ msgid "m/d/Y"
+#~ msgstr "d/m/Y"
+
+#~ msgid "Font"
+#~ msgstr "Police"
+
+#~ msgid "Transparency"
+#~ msgstr "Transparence"
+
+#~ msgid "Set the font transparency"
+#~ msgstr "Définir la transparence"
+
+#~ msgid "From 0 (completely opaque) to 127 (completely transparent)"
+#~ msgstr "De 0 (complétement opaque) à 127 (complétement transparent)"
+
+#~ msgid "From 0&deg; to 360&deg;"
+#~ msgstr "De 0&deg; à 360&deg;"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaïque"
+
+#~ msgid "Repeat the watermark text"
+#~ msgstr "Dupliquer le filigrane texte"
+
+#~ msgid "Mosaic size"
+#~ msgstr "Taille de la mosaïque"
+
+#~ msgid "Custom"
+#~ msgstr "Personnalisée"
+
+#~ msgid "Custom Mosaic size"
+#~ msgstr "Taille personnalisée"
+
+#~ msgid "Shift watermarks"
+#~ msgstr "Décaler les filigranes"
+
+#~ msgid "Offset X"
+#~ msgstr "Décalage en X"
+
+#~ msgid "Negative X value relative to right side"
+#~ msgstr "Valeur négative de X relative au côté droit"
+
+#~ msgid "Offset Y"
+#~ msgstr "Décalage en Y"
+
+#~ msgid "Negative Y value relative to bottom side"
+#~ msgstr "Valeur négative de Y relative au côté inférieur"
+
+#~ msgid "Error applying watermark!"
+#~ msgstr "Erreur en apposant le filigrane!"
+
+#~ msgid "Apply text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Watermark image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Change Image watermark"
+#~ msgstr "Changer le filigrane image"
+
+#~ msgid "Upload Image watermark"
+#~ msgstr "Téléverser un filigrane image"
+
+#~ msgid "Set the orientation to 0&deg; to enable 'Opacity' and 'Fit to image' options"
+#~ msgstr "Réglez l'orientation à 0&deg; pour activer les options 'Opacité' et 'Ajuster à l'image'"
+
+#~ msgid "Set the opacity (gif & jpg only, with NO orientation)"
+#~ msgstr "Définir l'opacité (seulement pour les GIF/JPEG, sans orientation)"
+
+#~ msgid "From 0% (fully transparent) to 100% (fully opaque)"
+#~ msgstr "De 0% (complétement transparent) à 100% (complétement opaque)"
+
+#~ msgid "Special effects"
+#~ msgstr "Effets spéciaux"
+
+#~ msgid "Greyscale watermark"
+#~ msgstr "Nuances de gris"
+
+#~ msgid "Negative watermark"
+#~ msgstr "Watermark négatif"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "(Use Aligment parameters below)"
+#~ msgstr "(Utilise les paramètres d'alignement)"
+
+#~ msgid "Upper left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Upper center"
+#~ msgstr "En haut au centre"
+
+#~ msgid "Upper right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Middle left"
+#~ msgstr "Au milieu à gauche"
+
+#~ msgid "Middle center"
+#~ msgstr "Au milieu au centre"
+
+#~ msgid "Middle right"
+#~ msgstr "Au milieu à droite"
+
+#~ msgid "Bottom center"
+#~ msgstr "En bas au centre"
+
+#~ msgid "Fit watermark to image width"
+#~ msgstr "Ajuster le filigrane à la largeur de l'image"
+
+#~ msgid "Do NOT use Offset X but Margin X parameter"
+#~ msgstr "N'utilise PAS le décalage en X mais la marge en X"
+
+#~ msgid "Fit watermark to image height"
+#~ msgstr "Ajuster le filigrane à la hauteur de l'image"
+
+#~ msgid "Do NOT use Offset Y but Margin Y parameter"
+#~ msgstr "N'utilise PAS le décalage en Y mais la marge en Y"
+
+#~ msgid "Keep aspect ratio"
+#~ msgstr "Préserver le ratio"
+
+#~ msgid "(Left and right margins around watermark)"
+#~ msgstr "Marges gauche et droite autour du filigrane)"
+
+#~ msgid "(Top and bottom margins around watermark)"
+#~ msgstr "Marges haute et basse autour du filigrane)"
+
+#~ msgid "Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Backup"
+#~ msgstr "Sauvegarde"
+
+#~ msgid "Backup images before watermark"
+#~ msgstr "Sauver les images avant filigranage"
+
+#~ msgid "Stored at"
+#~ msgstr "Sauvé dans"
+
+#~ msgid "Restore only current existing images"
+#~ msgstr "Restaurer seulement les images existantes"
+
+#~ msgid "Restore all images from backup directory"
+#~ msgstr "Restaurer toutes les images du répertoire de sauvegarde"
+
+#~ msgid "Watermarking"
+#~ msgstr "Filigranage numérique"
+
+#~ msgid "Watermark automatically images when uploading in the media gallery"
+#~ msgstr "Appliquer automatiquement le(s) filigrane(s) lors du téléversement de nouvelles images"
+
+#~ msgid "Watermark types"
+#~ msgstr "Types de filigranes"
+
+#~ msgid "Select to activate text watermark, image watermark, or both"
+#~ msgstr "Activer le filigrane de type texte, image ou les deux"
+
+#~ msgid "Activate text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Activate image watermark"
+#~ msgstr "Activer le filigrane de type image"
+
+#~ msgid "Set the image quality - Default value (-1) uses the default IJG quality value (about 75)"
+#~ msgstr "Définir la qualité d'image - Par défaut (-1) utilise la qualité IJG (environ 75)"
+
+#~ msgid "From 0 (worst quality, smaller file) to 100 (best quality, biggest file)"
+#~ msgstr "De 0 (moins bonne qualité, fichier plus petit) à 100 (meilleure qualité, fichier plus grand)"
+
+#~ msgid "Select the image types to be watermarked"
+#~ msgstr "Sélectionner les types d'images à apposer le filigrane"
+
+#~ msgid "Image sizes"
+#~ msgstr "Tailles d'image"
+
+#~ msgid "Select the image sizes to be watermarked"
+#~ msgstr "Sélectionner les tailles d'images à apposer le filigrane"
+
+#~ msgid "Post types"
+#~ msgstr "Type de posts"
+
+#~ msgid "Select the post types to be watermarked"
+#~ msgstr "Sélectionner les types de posts à apposer le filigrane"
+
+#~ msgid "Content protection"
+#~ msgstr "Protection du contenu"
+
+#~ msgid "Copy protection"
+#~ msgstr "Protection contre la copie"
+
+#~ msgid "Disable right click and copy content"
+#~ msgstr "Désactiver le clic droit et la copie de contenu"
+
+#~ msgid "Set Watermarks"
+#~ msgstr "Définir les filigranes"
+
+#~ msgid "Set Watermark Text"
+#~ msgstr "Définir le filigrane texte"
+
+#~ msgid "Set Watermark Image"
+#~ msgstr "Définir le filigrane image"
+
+#~ msgid "Set Backup/Restore options"
+#~ msgstr "Définir les options de sauvegarde/restauration"
+
+#~ msgid "Sorry, cannot do this..."
+#~ msgstr "Désolé, impossible de réaliser cette action..."
+
+#~ msgid "Both image and text watermarks are disabled!"
+#~ msgstr "Les filigranes de type texte et image sont tous deux désactivés!"
+
+#~ msgid "Cannot keep aspect ratio when both 'Fit' options are selected!"
+#~ msgstr "Impossible de conserver le ratio quand les deux options 'Fit' sont selectionnées!"
+
+#~ msgid "Image format not allowed!"
+#~ msgstr "Format d'image non autorisé!"
+
+#~ msgid "Watermark image format not allowed!"
+#~ msgstr "Format de filigrane non autorisé!"
+
+#~ msgid "Watermak image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermak Text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "Watermak Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "none"
+#~ msgstr "Aucun"
